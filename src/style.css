@@ -1,1 +1,17 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+/* #card-value {
+  font-size: 80px;
+}
+
+#card-suite {
+  font-size: 60px;
+} */
+
+body {
+  background-color: green;
+}
+
+.card {
+  background-color: white;
+  height: 200px;
+  width: 90px;
+}
